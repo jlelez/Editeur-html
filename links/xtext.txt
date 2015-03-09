@@ -1,0 +1,3 @@
+Voici venu le moment tant attendu : nous allons apprendre à modifier la position des éléments sur notre page. La théorie que nous allons voir ici nous sera indispensable au prochain chapitre, dans lequel nous réaliserons ensemble, pas à pas, le design de notre premier site !
+
+Vous allez voir, il existe plusieurs techniques permettant d'effectuer la mise en page de son site. Chacune a ses avantages et ses défauts, ce sera à vous de sélectionner celle qui vous semble la meilleure selon votre cas.

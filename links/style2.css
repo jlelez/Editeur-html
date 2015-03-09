@@ -1,0 +1,40 @@
+.div3 p
+{
+width: 207px;
+height: 185px;
+
+text-align: left;
+
+font-size: 12px;
+
+font-family: Arial;
+word-wrap: break-word;
+overflow: hidden;
+
+}
+
+.div3
+
+{
+position: absolute;
+overflow: hidden;
+left: 56px;
+top: 56px;
+
+}
+.div4 img
+{
+display: block;
+width: 189;
+height: 185;
+overflow: hidden;
+}
+.div4
+
+{
+position: absolute;
+overflow: hidden;
+left: 306px;
+top: 56px;
+
+}

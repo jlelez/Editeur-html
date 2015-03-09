@@ -1,0 +1,180 @@
+html
+{
+background-color: white;
+}
+
+body
+{
+width: 596px;
+height: 842px;
+background-color: rgb(255, 255, 255);border: 1px solid black;
+}
+
+.div0 p
+{
+width: 536px;
+height: 112px;
+
+text-align: left;
+
+font-size: 30px;
+
+font-family: Arial;
+word-wrap: break-word;
+overflow: hidden;
+
+}
+
+.div0
+
+{
+position: absolute;
+overflow: hidden;
+left: 30px;
+top: 30px;
+
+}
+.div1 p
+{
+width: 187px;
+height: 275px;
+
+text-align: left;
+
+font-size: 12px;
+
+font-family: Arial;
+word-wrap: break-word;
+overflow: hidden;
+
+}
+
+.div1
+
+{
+position: absolute;
+overflow: hidden;
+left: 30px;
+top: 157px;
+
+}
+.div2 img
+{
+display: block;
+width: 159;
+height: 133;
+overflow: hidden;
+}
+.div2
+
+{
+position: absolute;
+overflow: hidden;
+left: 232px;
+top: 157px;
+
+}
+.div3 p
+{
+width: 160px;
+height: 123px;
+
+text-align: left;
+
+font-size: 12px;
+
+font-family: Arial;
+word-wrap: break-word;
+overflow: hidden;
+
+}
+
+.div3
+
+{
+position: absolute;
+overflow: hidden;
+left: 234px;
+top: 309px;
+
+}
+.div4 p
+{
+width: 159px;
+height: 275px;
+
+text-align: left;
+
+font-size: 12px;
+
+font-family: Arial;
+word-wrap: break-word;
+overflow: hidden;
+
+}
+
+.div4
+
+{
+position: absolute;
+overflow: hidden;
+left: 407px;
+top: 157px;
+
+}
+.div5 img
+{
+display: block;
+width: 191;
+height: 109;
+overflow: hidden;
+}
+.div5
+
+{
+position: absolute;
+overflow: hidden;
+left: 30px;
+top: 449px;
+
+}
+.div6 img
+{
+display: block;
+width: 187;
+height: 237;
+overflow: hidden;
+}
+.div6
+
+{
+position: absolute;
+overflow: hidden;
+left: 31px;
+top: 575px;
+
+}
+.div7 p
+{
+width: 331px;
+height: 138px;
+
+text-align: left;
+
+font-size: 12px;
+
+font-family: Arial;
+word-wrap: break-word;
+overflow: hidden;
+
+}
+
+.div7
+
+{
+position: absolute;
+overflow: hidden;
+left: 235px;
+top: 674px;
+
+}

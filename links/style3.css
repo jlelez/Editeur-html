@@ -1,0 +1,24 @@
+.div2 p
+{
+width: 213px;
+height: 177px;
+
+text-align: right;
+
+font-size: 23px;
+
+font-family: Tahoma;
+word-wrap: break-word;
+overflow: hidden;
+
+}
+
+.div2
+
+{
+position: absolute;
+overflow: hidden;
+left: 86px;
+top: 79px;
+
+}
